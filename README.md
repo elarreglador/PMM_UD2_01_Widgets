@@ -1,5 +1,9 @@
 # WidgetsDemo en Jetpack Compose
-Este proyecto demuestra el uso de algunos widgets comunes de Jetpack Compose en una aplicación de Android. Incluye componentes como TextField, Button, Checkbox, Slider y Image, todos alineados y dispuestos dentro de un Column para crear una interfaz de usuario simple y funcional.
+## UD2 Kotlin Jetpack Compose
+La unidad 2 de Programacion MultiMedia (PMM) explica Jetpack Compose y su funcionamiento, he desglosado una serie de conceptos y creado apps minimas para facilitar su comprension.
+
+## Acerca de Widgets
+Este proyecto muestra el uso de algunos widgets comunes de Jetpack Compose en una aplicación de Android. Incluye componentes como TextField, Button, Checkbox, Slider y Image, todos alineados y dispuestos dentro de un Column para crear una interfaz de usuario simple y funcional.
 
 ## Estructura del Proyecto
 El proyecto consta de una actividad principal MainActivity, que carga el contenido de la interfaz de usuario utilizando WidgetsDemo, una función composable que define los widgets y su disposición en la pantalla.
