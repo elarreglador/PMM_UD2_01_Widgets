@@ -5,8 +5,8 @@ La unidad 2 de Programacion MultiMedia (PMM) explica Jetpack Compose y su funcio
 ## Acerca de Widgets
 Este proyecto muestra el uso de algunos widgets comunes de Jetpack Compose en una aplicación de Android. Incluye componentes como TextField, Button, Checkbox, Slider y Image, todos alineados y dispuestos dentro de un Column para crear una interfaz de usuario simple y funcional.
 
-<img src="./screenshots/1.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="400"/>
-<img src="./screenshots/2.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="400"/>
+<img src="./screenshots/1.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="350"/>
+<img src="./screenshots/2.png" alt="Vista de la aplicación" style="border: 2px solid black; border-radius: 8px;" width="350"/>
 
 ## Estructura del Proyecto
 El proyecto consta de una actividad principal MainActivity, que carga el contenido de la interfaz de usuario utilizando WidgetsDemo, una función composable que define los widgets y su disposición en la pantalla.
